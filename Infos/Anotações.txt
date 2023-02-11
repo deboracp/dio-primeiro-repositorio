@@ -1,6 +1,8 @@
 git status
 git add .
 git add -A
+git add nomearquivo
+git add *
 
 adicionar alterações:
 git add .
@@ -8,3 +10,4 @@ git status (saber se deu tudo certo)
 git commit -m "alguma mensagem" (se for na outra tela ctrl + c :qa! <enter>)
 git status (saber se deu tudo certo)
 git push origin main
+
